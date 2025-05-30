@@ -3,7 +3,7 @@
 Skrip ini digunakan untuk melabeli data pertanyaan dalam file CSV (`question_list.csv`) secara otomatis berdasarkan kata kunci yang telah didefinisikan. Hasilnya disimpan dalam file `labeled_question_list.csv`.
 format file header kolom nya harus (pertanyaan) dan result nya tiap pertanyaan akan terdapat sparator (,) dan lebel.
 <br>example :
-Harga STB berapa ya?”",Problem
+"Harga STB berapa ya?",Problem
 
 
 ---
